@@ -11,4 +11,5 @@ eureka:
       defaultZone: http://localhost:3001/eureka/
   instance:
     prefer-ip-address: true
-foo: woaini
+foo: 
+  woaini
